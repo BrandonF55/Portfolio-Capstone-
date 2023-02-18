@@ -36,7 +36,7 @@ Ive started a new repo and im running into a issues getting it up and running. I
 4pm - 5pm
 
 
-
+the last hour of the day i was trying to get the library to work. There are tons of videos on Particle.js, and how to make it work but i cant seem to get it going. I think im going to research to library's to us in my project. 
 
 
 
