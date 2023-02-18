@@ -15,7 +15,7 @@ h1{
   font-size: #fff;
   text-transform: uppercase;
   text-align: center;
-  text-shadow: 0 0 10px, rgpa();
+  text-shadow: 0 0 10px;
 }
 
 #particles-js{
