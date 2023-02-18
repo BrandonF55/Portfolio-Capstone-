@@ -27,7 +27,18 @@ Im still currently trying to get this particle.js library to work. its giving me
 
 2pm - 3pm 
 
-Im still currently trying to get the library to work with my project. Ive changed gears though. im going to start a new project without webpack, package.json and all the other packages im not going to need. Starting a New repo now 
+Im still currently trying to get the library to work with my project. Ive changed gears though. im going to start a new project without webpack, package.json and all the other packages im not going to need. Starting a New repo now at https://github.com/BrandonF55/Portfolio-Capstone-.git. I had a total of 8 commits before making a new repo. I have a detailed research page to show my work from this point.
+
+3pm - 4pm
+
+Ive started a new repo and im running into a issues getting it up and running. I found this video with a different technique. here is the video https://www.youtube.com/watch?v=ELV32bqMBlc. Im hoping this video has the solution on how to get this working.
+
+4pm - 5pm
+
+
+
+
+
 
 
 

@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+  padding: 0;
+  height: 1vh;
+  background-color: #262626;
+}
+
+.particles-js{
+  height: 100%;
+  background-color: #e20e0e;
+  
+}
